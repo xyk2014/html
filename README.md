@@ -6,7 +6,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="description" content="">
 <meta name="keywords" content="keyword1,keyword2,keyword3..">
-<link rel="stylesheet" type="text/css" href="css/main.css">
+<style type="text/css">
+</style>
 <script src="js/jquery-1.11.1.min.js" type="text/javascript"></script>
 </head>
 <body>
